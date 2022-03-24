@@ -30,3 +30,5 @@
 
 14. En este media quire le diremos que img tenga un 50 % del ancho 
 
+15. Por ultimo añadiremos el border ratius con 5 %
+
